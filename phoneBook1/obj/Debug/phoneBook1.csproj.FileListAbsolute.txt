@@ -1,0 +1,24 @@
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\bin\Debug\phoneBook1.exe.config
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\bin\Debug\phoneBook1.exe
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\bin\Debug\phoneBook1.pdb
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\bin\Debug\MySql.Data.dll
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csprojResolveAssemblyReference.cache
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.phoneBookApp.resources
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.Properties.Resources.resources
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csproj.GenerateResource.cache
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csproj.CoreCompileInputs.cache
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csproj.CopyComplete
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.exe
+C:\Users\ptrmr\Documents\Visual Studio 2017\Projects\phoneBook1\phoneBook1\obj\Debug\phoneBook1.pdb
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\bin\Debug\phoneBook1.exe.config
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\bin\Debug\phoneBook1.exe
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\bin\Debug\phoneBook1.pdb
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\bin\Debug\MySql.Data.dll
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csprojResolveAssemblyReference.cache
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.phoneBookApp.resources
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.Properties.Resources.resources
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csproj.GenerateResource.cache
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csproj.CoreCompileInputs.cache
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.csproj.CopyComplete
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.exe
+C:\Users\ptrmr\Desktop\phoneBook1\phoneBook1\obj\Debug\phoneBook1.pdb
